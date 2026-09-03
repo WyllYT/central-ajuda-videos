@@ -11,6 +11,12 @@
     "title": "Como gerar planilha do inventario no sistema C&J Software",
     "description": "Como gerar o inventario no sistema e arrumar na planilha exel para enviar ao escritorio",
     "categories": ["Tutoriais", "Inventario"]
+  },
+  {
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "title": "Vídeo de Teste Open Source",
+    "description": "Testando player nativo no Electron",
+    "categories": ["Tutoriais"]
   }
 ]
 
