@@ -8,7 +8,7 @@
   },
   {
     "videoUrl": "https://youtu.be/h1L1n1uMmZM",
-    "title": "Como gerar planilha do inventario no sistema C&J Software",
+    "title": "Como gerar planilha do inventario no sistema",
     "description": "Como gerar o inventario no sistema e arrumar na planilha exel para enviar ao escritorio",
     "categories": ["Tutoriais", "Inventario"]
   },
@@ -18,5 +18,11 @@
     "description": "Como criar produto no sistema, alterar estoque e adicionar preço ao produto!",
     "categories": ["Tutoriais", "Estoque"]
   }
+    {
+    "videoUrl": "https://youtu.be/1lzMoTXVXQc",
+    "title": "Como fazer entrada de notas no sistema, Localizar ou editar notas salvas",
+    "description": "Nesse tutorial voce ira aprender a fazer nota de entrada ou ate mesmo editar uma nota já salva no sistema",
+    "categories": ["Tutoriais", "Notas de Entradas"]
+  },
 ]
 
