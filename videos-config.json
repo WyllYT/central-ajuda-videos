@@ -13,10 +13,10 @@
     "categories": ["Tutoriais", "Inventario"]
   },
   {
-    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "title": "Vídeo de Teste Open Source",
-    "description": "Testando player nativo no Electron",
-    "categories": ["Tutoriais"]
+    "videoUrl": "https://youtu.be/mExLJcT9MEs",
+    "title": "Criando produto, alterando estoque e adicionando preço",
+    "description": "Como criar produto no sistema, alterar estoque e adicionar preço ao produto!",
+    "categories": ["Tutoriais", "Estoque"]
   }
 ]
 
