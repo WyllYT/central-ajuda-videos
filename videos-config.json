@@ -2,26 +2,32 @@
   {
     "videoUrl": "https://youtu.be/VdlmKftc-d0",
     "title": "Como inutilizar notas fiscais dentro do sistema",
-    "description": "Como inutilizar notas fiscais dentro do sistema",
+    "description": "Como inutilizar notas fiscais dentro do sistema.",
     "categories": ["Tutoriais", "Notas Fiscais"]
   },
   {
     "videoUrl": "https://youtu.be/h1L1n1uMmZM",
     "title": "Como gerar planilha do inventario no sistema",
-    "description": "Como gerar o inventario no sistema e arrumar na planilha exel para enviar ao escritorio",
+    "description": "Como gerar o inventario no sistema e arrumar na planilha exel para enviar ao escritorio.",
     "categories": ["Tutoriais", "Inventario"]
   },
   {
     "videoUrl": "https://youtu.be/mExLJcT9MEs",
     "title": "Criando produto, alterando estoque e adicionando preço",
-    "description": "Como criar produto no sistema, alterar estoque e adicionar preço ao produto!",
-    "categories": ["Tutoriais", "Estoque"]
+    "description": "Como criar produto no sistema, alterar estoque e adicionar preço ao produto!.",
+    "categories": ["Tutoriais", "Estoque","Cadastro"]
   },
     {
     "videoUrl": "https://youtu.be/1lzMoTXVXQc",
     "title": "Como fazer entrada de notas no sistema, Localizar ou editar notas salvas",
-    "description": "Nesse tutorial voce ira aprender a fazer nota de entrada ou ate mesmo editar uma nota já salva no sistema",
-    "categories": ["Tutoriais", "Notas de Entradas"]
+    "description": "Nesse tutorial voce ira aprender a fazer nota de entrada ou ate mesmo editar uma nota já salva no sistema.",
+    "categories": ["Tutoriais", "Notas de Entradas","Estoque","Cadastro"]
+  },
+    {
+    "videoUrl": "https://youtu.be/e80dRbFvp8A",
+    "title": "Como cadastrar Cliente no sistema e dicas do Tipo de cadastro do cliente",
+    "description": "Nesse tutorial voce ira aprender a como fazer um cadastro de cliente e tambem saber qual tipo de cliente ele é.",
+    "categories": ["Tutoriais", "Clientes","Dicas Fiscais","Cadastro"]
   }
 ]
 
